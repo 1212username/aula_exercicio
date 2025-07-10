@@ -13,5 +13,7 @@ Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
 
 Resutados
-![Uploading image.png…]()
 
+
+
+![image](https://github.com/user-attachments/assets/577fc55f-45f4-4626-9b62-2df38b713305)
